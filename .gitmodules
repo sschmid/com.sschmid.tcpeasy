@@ -1,0 +1,3 @@
+[submodule "TCPeasy"]
+	path = TCPeasy
+	url = https://github.com/sschmid/TCPeasy.git

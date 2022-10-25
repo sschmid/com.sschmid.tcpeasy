@@ -7,6 +7,14 @@
       "dependencies": {},
       "url": "https://package.openupm.com"
     },
+    "com.sschmid.tcpeasy": {
+      "version": "file:com.sschmid.tcpeasy",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {
+        "com.sschmid.sherlog": "1.0.0"
+      }
+    },
     "com.unity.editorcoroutines": {
       "version": "1.0.0",
       "depth": 1,

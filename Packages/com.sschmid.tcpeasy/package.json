@@ -1,0 +1,24 @@
+{
+  "name": "com.sschmid.tcpeasy",
+  "version": "1.0.0",
+  "displayName": "TCPeasy",
+  "description": "Connecting sockets",
+  "unity": "2021.3",
+  "documentationUrl": "https://github.com/sschmid/TCPeasy",
+  "changelogUrl": "https://github.com/sschmid/TCPeasy/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/sschmid/TCPeasy/blob/main/LICENSE.md",
+  "dependencies": { 
+    "com.sschmid.sherlog": "1.0.0"
+  },
+  "keywords": [
+    "tcp",
+    "unity",
+    "dotnet",
+    "tcp-server",
+    "tcp-client",
+    "tcp-socket"
+  ],
+  "author": {
+    "name": "sschmid"
+  }
+}

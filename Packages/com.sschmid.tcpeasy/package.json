@@ -1,6 +1,6 @@
 {
   "name": "com.sschmid.tcpeasy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "TCPeasy",
   "description": "Connecting sockets",
   "unity": "2021.3",

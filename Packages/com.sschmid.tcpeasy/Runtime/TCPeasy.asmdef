@@ -1,7 +1,9 @@
 {
   "name": "TCPeasy",
   "rootNamespace": "TCPeasy",
-  "references": ["Sherlog"],
+  "references": [ 
+    "Sherlog"
+  ],
   "includePlatforms": [],
   "excludePlatforms": [],
   "allowUnsafeCode": false,
